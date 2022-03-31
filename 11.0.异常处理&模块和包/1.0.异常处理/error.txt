@@ -1,0 +1,6 @@
+2022-03-06 18:00:09 ERROR
+ Traceback (most recent call last):
+  File "F:/PyProject/Learning_Python/11.0.异常处理&模块和包/1.0.异常处理/2.0.自定义异常处理类.py", line 37, in <module>
+    int('a')
+ValueError: invalid literal for int() with base 10: 'a'
+

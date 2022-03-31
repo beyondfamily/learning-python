@@ -1,0 +1,5 @@
+2022-03-06 19:14:30,536 1.0.logging.py[line:26] DEBUG 调试模式
+2022-03-06 19:14:30,536 1.0.logging.py[line:27] INFO 正常模式
+2022-03-06 19:14:30,536 1.0.logging.py[line:28] WARNING 警告信息
+2022-03-06 19:14:30,536 1.0.logging.py[line:29] ERROR 错误信息
+2022-03-06 19:14:30,536 1.0.logging.py[line:30] CRITICAL 严重错误信息

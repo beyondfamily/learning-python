@@ -1,0 +1,3 @@
+def funca():
+    print('funca')
+
